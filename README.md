@@ -46,10 +46,23 @@ This project implements a full-featured relational database for a clinic booking
 ## Screenshots
 
 ### 1. Database Schema Diagram  
-`[Insert ERD screenshot here]`
+<img width="1440" height="884" alt="Screen Shot 2025-09-07 at 23 25 11" src="https://github.com/user-attachments/assets/4a157bdd-a4c6-4201-a864-953aa7870f0f" />
+
 
 ### 2. MySQL Workbench Output  
-`[Insert terminal or execution screenshot here]`
+### 1.1 
+<img width="1440" height="857" alt="Screen Shot 2025-09-07 at 23 15 16" src="https://github.com/user-attachments/assets/94580403-32f5-4966-a010-fb48fde73801" />
+
+### 1.2 
+<img width="1330" height="798" alt="Screen Shot 2025-09-07 at 23 15 39" src="https://github.com/user-attachments/assets/979cb596-ce73-46f6-88c5-6958449d6fe7" />
+
+### 1.3 
+<img width="1440" height="857" alt="Screen Shot 2025-09-07 at 23 15 46" src="https://github.com/user-attachments/assets/2fd4e676-c91c-40c9-9f58-70c10cb5d763" />
+
+### 1.4 
+<img width="1440" height="857" alt="Screen Shot 2025-09-07 at 23 15 50" src="https://github.com/user-attachments/assets/3f7b8e56-ffdd-4bc6-be9f-fb03598182ab" />
+
+
 
 ---
 
