@@ -72,12 +72,7 @@ This schema was designed with emotional clarity and survivor safety in mind. Eac
 
 ---
 
-## Final Checklist
 
-- [x] `.sql` file includes CREATE DATABASE and all table definitions  
-- [x] Relationships and constraints are clearly defined  
-- [x] README includes setup, objectives, and screenshots  
-- [x] GitHub repo is public and ready for submission
 
 
 
